@@ -1,4 +1,4 @@
-# Recipes App in React Native
+# Taxi App in React Native
 
 
 Download this beautiful free React Native starter kit, featuring a recipes app, to bootstrap your mobile app development. Learn React Native by working on a real project. Get familiar with various native components, navigation, redux and more.
